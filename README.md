@@ -8,8 +8,7 @@ The dataset used in this project was synthetically generated using ChatGPT for l
 
 This dashboard demonstrates how financial data can be transformed into actionable insights using analytics and visualization techniques.
 
-📂 Dataset Information
-
+---
 📌 Source: Synthetic dataset generated using ChatGPT
 
 📊 Type: Banking & Loan data
@@ -30,6 +29,7 @@ Perform region-wise and customer segmentation analysis
 
 Build an interactive dashboard for decision-making
 
+---
 🛠️ Tech Stack
 
 Power BI – Data Visualization & Dashboard Development
@@ -40,6 +40,7 @@ DAX – Calculated Measures & KPIs
 
 Synthetic Dataset – Generated via ChatGPT
 
+---
 📊 Key KPIs Created
 
 Total Loan Applications
@@ -58,7 +59,9 @@ Average Credit Score
 
 Risk Category Distribution
 
+---
 📊 Dashboard Features
+
 🔹 Loan Performance Overview
 
 Application & approval trends
@@ -91,6 +94,7 @@ Loan type breakdown
 
 Risk profiling
 
+---
 📌 Business Insights Generated
 
 Identified synthetic high-risk customer groups
@@ -101,6 +105,7 @@ Analyzed simulated default impact on profitability
 
 Demonstrated financial risk assessment approach
 
+---
 🚀 How to Use
 
 Download the .pbix file.
@@ -111,6 +116,7 @@ Explore interactive filters and slicers.
 
 Modify dataset if needed for experimentation.
 
+---
 📚 Learning Outcomes
 
 Financial analytics dashboard development
@@ -123,6 +129,6 @@ End-to-end BI project structuring
 
 Working with synthetic datasets for portfolio projects
 
+---
 👤 Author
-
 Kushal Gupta
